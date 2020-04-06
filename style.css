@@ -1,7 +1,20 @@
 body {
+<<<<<<< HEAD
     color: indigo;
     background-color: green;
     font-size: 125%;
     font-family: 'Satisfy', Comic Sans;
     margin: 5em 25%;
+=======
+    body {
+        color: white;
+        background-color: black;
+        font-family: 'Sacramento', cursive;
+        font-size: 32px;
+        margin-top: 5%;
+        margin-left: 20%;
+        margin-right: 20%;
+     }  color: green;
+    background-color: indigo;
+>>>>>>> 98747f41476a0186e157180878bfae686a911726
  }
