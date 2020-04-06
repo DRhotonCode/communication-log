@@ -1,4 +1,7 @@
 body {
-    color: green;
-    background-color: indigo;
+    color: indigo;
+    background-color: green;
+    font-size: 125%;
+    font-family: 'Satisfy', Comic Sans;
+    margin: 5em 25%;
  }
